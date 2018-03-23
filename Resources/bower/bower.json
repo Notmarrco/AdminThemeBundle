@@ -28,10 +28,10 @@
         "holderjs"                  : "*",
         "bootflat"                  : "*",
         "bootbox"                   : "*",
-        "fontawesome"               : "*",
+        "fontawesome"               : "4.*",
         "ionicons"                  : "*",
         "fullcalendar"              : "*",
-        "adminlte"                  : ">=2.0.0 <3.0"
+        "adminlte"                  : "~2.3"
     },
     "resolutions" : {
         "jquery": "~3.3.1"
