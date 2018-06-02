@@ -29,9 +29,10 @@
         "bootflat"                  : "*",
         "bootbox"                   : "*",
         "fontawesome"               : "4.*",
-        "ionicons"                  : "*",
+        "ionicons"                  : "2.0.1",
         "fullcalendar"              : "*",
-        "adminlte"                  : "~2.3"
+        "adminlte"                  : "~2.3",
+        "bootstrap"                 : "~3.3.0"
     },
     "resolutions" : {
         "jquery": "~3.3.1"
